@@ -1,0 +1,13 @@
+{
+  "name": "Divide",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/thumbimurali/Divide",
+    "ssh": "git@github.com:thumbimurali/Divide.git"
+  },
+  "language": "nodejs",
+  "start": "node index.js",
+  "build": "",
+  "postPull": "npm i",
+  "standAloneBlock": false
+}
